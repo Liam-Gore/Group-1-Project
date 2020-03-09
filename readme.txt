@@ -7,16 +7,16 @@ To Do:
 
   L - Liam | E - Elijah | A - Alex | Q - Quinn
 
-  a. Home Page - L
+  a. Home Page - Complete
   b. About - E
   c. History - Q
-  d. Mission Statement -
-  e. Contact - L
+  d. Mission - Complete
+  e. Contact - Complete
   f. Projects - Q + others maybe
-  g. Calender - A
-  h.
-  i.
-  j.
+  g. Calender - Complete
+  h. Contact2 (Message submitted) - Complete
+  i. 
+  j. 
   k. CSS stylesheet
 
 How to push your changes to GitHub:
