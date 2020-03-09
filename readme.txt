@@ -8,7 +8,7 @@ To Do:
     L - Liam | E - Elijah | A - Alex | Q - Quinn
 
     a. Home Page - Complete
-    b. About - Environmental Impact - E
+    b. About - E
     c. History - Q
     d. Mission - Complete
     e. Contact - Complete
