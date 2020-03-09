@@ -96,3 +96,14 @@ td.active, td:hover{
     background-color: green;
     cursor: grab;
 }
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 1em 0;
+}
+.center{
+    width: 30%;
+}
+.clearfix{
+    clear: both;
+}
