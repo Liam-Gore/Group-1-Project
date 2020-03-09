@@ -1,23 +1,23 @@
 To Do:
 
 1. Decide the theme of the website.
-  a. International Research Laboratory of Experimental Technology (Name subject to change) - Since 2010, we are a private research lab whose purpose is to invent 'futuristic' gadgets, including but not limited to: reliable wormhole travel, FTL drives, and time machines.
+    a. International Research Laboratory of Experimental Technology (Name subject to change) - Since 2010, we are a private research lab whose purpose is to invent 'futuristic' gadgets, including but not limited to: reliable wormhole travel, FTL drives, and time machines.
 
 2. Create 10 pages (+CSS).
 
-  L - Liam | E - Elijah | A - Alex | Q - Quinn
+    L - Liam | E - Elijah | A - Alex | Q - Quinn
 
-  a. Home Page - Complete
-  b. About - E
-  c. History - Q
-  d. Mission - Complete
-  e. Contact - Complete
-  f. Projects - Q + others maybe
-  g. Calender - Complete
-  h. Contact2 (Message submitted) - Complete
-  i. Environmnetal Impact - E
-  j. 
-  k. CSS stylesheet
+    a. Home Page - Complete
+    b. About - Environmental Impact - E
+    c. History - Q
+    d. Mission - Complete
+    e. Contact - Complete
+    f. Projects - Q + others maybe
+    g. Calender - Complete
+    h. Contact2 - Complete
+    i. CEO - Complete
+    j. Environmental Impact - E
+    k. CSS stylesheet
 
 How to push your changes to GitHub:
 
