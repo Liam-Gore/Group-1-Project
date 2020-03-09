@@ -2,22 +2,18 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 body{
     background-color: rgb(130, 205, 208);
 }
-
 header{
     background-color: #6cd9af;
 }
-
 #wrapper{
     background-color: #b1dfe0;
     width: 80%;
     margin-right: auto;
     margin-left: auto;
 }
-
 footer{
     background-color: #6cd9af;
     font-size: .60em;
@@ -25,12 +21,10 @@ footer{
     text-align: center;
     padding: 1em;
 }
-
 nav{
     text-align: center;
     padding: 1em;
 }
-
 nav a{
     text-align: center;
     font-weight: bold;
@@ -40,11 +34,9 @@ nav a{
     border: 3px inset transparent;
     padding: .75em 1em;
 }
-
 nav a:hover{
     border: 3px inset black;
 }
-
 label{
     float: left;
     display: block;
@@ -53,12 +45,10 @@ label{
     width: 10em;
     padding-right: 1em;
 }
-
 input, textarea{
     display: block;
     margin-bottom: 2em;
 }
-
 #mySubmit{
     margin-left: 12em;
 }
@@ -74,4 +64,41 @@ footer{
 }
 form{
     padding: 3em;
+}
+#wrappertable{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/project/computer.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+table, th, tr, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+table{
+    background-color: white;
+    margin: 80px auto;
+    box-shadow: 0 10px 60px rgba(0,0,0,0,.9);
+}
+th, tr, td{
+    padding: 20px;
+}
+caption{
+    background-image: url(../images/project/computerboard.jpg);
+    height: 200px;
+    padding: 2em;
+    color: white;
+    font-size: 40px;
+
+
+}
+tr:nth-child(even){
+    background-color: lightblue;
+}
+td.active, td:hover{
+    color: white;
+    background-color: green;
+    cursor: grab;
 }
