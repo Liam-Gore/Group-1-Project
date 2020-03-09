@@ -36,6 +36,6 @@ tr:nth-child(even){
 }
 td.active, td:hover{
     color: white;
-    background-color: lightblue;
+    background-color: green;
     cursor: grab;
 }
