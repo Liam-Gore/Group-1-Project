@@ -15,7 +15,7 @@ To Do:
   f. Projects - Q + others maybe
   g. Calender - Complete
   h. Contact2 (Message submitted) - Complete
-  i. 
+  i. Environmnetal Impact - E
   j. 
   k. CSS stylesheet
 
